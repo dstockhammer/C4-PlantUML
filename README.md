@@ -1,3 +1,6 @@
+### Note by dstockhammer
+This is a fork of [adrianvlupu/C4-PlantUML](https://github.com/adrianvlupu/C4-PlantUML) that changes all imports to local. There are no other changes!
+
 # C4-PlantUML
 
 > PlantUML version 1.2020.07
