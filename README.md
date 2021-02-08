@@ -1,5 +1,5 @@
-### Note by dstockhammer
-This is a fork of [adrianvlupu/C4-PlantUML](https://github.com/adrianvlupu/C4-PlantUML) that changes all imports to local. There are no other changes!
+# !! OBSOLETE !!
+This is a fork of [adrianvlupu/C4-PlantUML](https://github.com/adrianvlupu/C4-PlantUML) that changes all imports to local. This functionality is now supported out of the box in [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML) by setting `-DRELATIVE_INCLUDE`. Therefore this repository is now archived.
 
 # C4-PlantUML
 
